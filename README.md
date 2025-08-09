@@ -2,11 +2,12 @@
 基于MG315X电机的三轮小车底盘的电机调速/转向环/循迹PID  
   
 以2025年电赛E题作为参考，在1m*1m的正方形轨迹中运行小车，单圈运行时长不得超过20s  
-效果展示：【25电赛e循迹】 https://www.bilibili.com/video/BV117h7zXEKD  
+♯♯效果展示：  
+【25电赛e循迹】 https://www.bilibili.com/video/BV117h7zXEKD  
 优势：单圈运行时间为19.8s，可持续连续稳定运行  
 说明：使用ccs编写，OLED与BNO08x部分代码来自Torris-Yin
   
-难点：
+##难点：
 1. 直角转弯
 2. 控制车速在20s内接近20s 
 
